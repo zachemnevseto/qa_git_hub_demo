@@ -1,7 +1,7 @@
 $ git help -a
 See 'git help <command>' to read about a specific subcommand
 
-Main Porcelain Commands
+Main Porcelain Commands any
    add                  Add file contents to the index
    am                   Apply a series of patches from a mailbox
    archive              Create an archive of files from a named tree
